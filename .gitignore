@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# PyInstaller / Build artifacts
+build/
+dist/
+_internal/
+*.exe
+*.manifest
+*.spec.bak
+
+# Pytest / Cache
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Logs and system data
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
